@@ -11,8 +11,7 @@ ML-проект: прогнозирование времени доставки 
 ## Запуск
 
 1. Установите зависимости: `pip install -r requirements.txt`.
-2. Поместите `train.csv` в `data/`.
-3. Запустите `delivery_time_prediction.ipynb` сверху вниз.
+2. Запустите `delivery_time_prediction.ipynb`.
 
 ## Методология и результат
 
